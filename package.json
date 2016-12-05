@@ -1,0 +1,34 @@
+{
+  "name": "gulp-in-action",
+  "version": "1.0.0",
+  "description": "some practice about gulp",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yanchenyu/gulp-in-action.git"
+  },
+  "keywords": [
+    "gulp",
+    "demo"
+  ],
+  "author": "yanchenyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yanchenyu/gulp-in-action/issues"
+  },
+  "homepage": "https://github.com/Yanchenyu/gulp-in-action"
+}

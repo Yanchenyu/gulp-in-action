@@ -1,0 +1,114 @@
+
+
+.wrapper {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	transition: left 1.8s;
+	z-index: 100;
+	background: #f2f2f2;
+}
+
+
+article {
+	width: 98%;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+nav {
+	width: 100%;
+	text-align: center;
+	
+}
+
+.nav_left {
+	float: left;
+	display: inline-block;
+	width: 35%;
+	height: 18px;
+	border-bottom: 2px solid #00b9ff;
+}
+
+.nav_right {
+	float: right;
+	display: inline-block;
+	width: 35%;
+	height: 18px;
+	border-bottom: 2px solid #00b9ff;
+}
+
+
+.takeup_num {
+	color: #000;
+	font-size: 18px;
+	line-height: 40px;
+
+}
+
+article ul {
+	width: 49%;
+	display: inline-block;
+	list-style: none;
+	background: #fff;
+}
+
+.takeup_left {
+	float: left;
+}
+
+.takeup_right {
+	float: right;
+}
+
+.takeup_left li,.takeup_right li {
+	color: #000;
+	width: 100%;
+	height: 45px;
+	line-height: 45px;
+	list-style: none;
+	font-size: 18px;
+	text-align: center;
+	border-bottom: 4px solid #f2f2f2;
+}
+
+
+.takeup_right li {
+	color: #00b9ff;
+}
+
+.takeup_right li input {
+	height: 45px;
+	line-height: 45px;
+	font-size: 18px;
+	width: 100%;
+}
+
+
+
+.turn_right {
+	display: inline-block;
+	width: 10px;
+	height: 15px;
+	float: right;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+.start_debug {
+	margin: 0 auto;
+	width: 80%;
+	height: 32px;
+	background-color: #00b9ff;
+	border: 1px solid rgb(230, 227, 227);
+	border-radius: 7px;
+}
+
+.takeup_right li {
+	text-align: center;
+}
+
+
